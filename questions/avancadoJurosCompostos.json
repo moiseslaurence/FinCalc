@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "enunciado": "Q1. Jorge aplicou o capital de R$ 8.000,00 durante 9 meses. Sabendo-se que o mesmo esteve aplicado a juros compostos, a uma taxa nominal de 80% ao ano e que as capitalizações ocorreram a cada trimestre, os juros dessa aplicação correspondem a:",
+        "altA": "R$ 5.824,00",
+        "altB": "R$ 3.290,00",
+        "altC": "R$ 5.345,00",
+        "altD": "R$ 8.240,00",
+        "correta": "A",
+        "link": "https://drive.google.com/open?id=1XDkQZnVd_n98HBdy6yuKw-SXiuD3uTpJ"
+    },
+    {
+        "id": 2,
+        "enunciado": "Q2. Maria empresta uma quantia de R$ 15.000,00 é emprestada a uma taxa de juros de 10% ao mês. Aplicando-se juros compostos, o valor que deverá ser pago para a quitação da dívida, três meses depois, é:",
+        "altA": "R$ 20.000,00",
+        "altB": "R$ 19.965,00",
+        "altC": "R$ 18.510,00",
+        "altD": "R$ 17.320,00",
+        "correta": "B",
+        "link": "https://drive.google.com/open?id=1XDkQZnVd_n98HBdy6yuKw-SXiuD3uTpJ"
+    },
+    {
+        "id": 3,
+        "enunciado": "Q3. Maiko deseja comprar uma casa e aplica R$ 25.000,00 a juros compostos, rendendo 7% a cada bimestre, quanto ele terá após três anos?",
+        "altA": "R$ 25.000,00 x (1,70) 6",
+        "altB": "R$ 25.000,00 x (1,07) 18",
+        "altC": "R$ 25.000,00 x (0,93) 3",
+        "altD": "R$ 25.000,00 x (1,70) 3",
+        "correta": "B",
+        "link": "https://drive.google.com/open?id=1XDkQZnVd_n98HBdy6yuKw-SXiuD3uTpJ"
+    },
+    {
+        "id": 4,
+        "enunciado": "Q4. Gaby e Marcos desejam casar e para isso resolvem aplicar R$ 10.000,00 a juros compostos de 12% a.a, pelo prazo de 5 anos e 4 meses. Admitindo-se a convenção linear, o montante da aplicação, ao final do prazo, será de:",
+        "altA": "R$ 18.568,74",
+        "altB": "R$ 18.327,92",
+        "altC": "R$ 18.150,00",
+        "altD": "R$ 18.082,36",
+        "correta": "B",
+        "link": "https://drive.google.com/open?id=1XDkQZnVd_n98HBdy6yuKw-SXiuD3uTpJ"
+    },
+    {
+        "id": 5,
+        "enunciado": "Q5. A rentabilidade efetiva de um investimento è de 10% aa. Se os juros ganhos forem de R$ 27.473,00, sobre um capital investido de R$ 83.000,00, quanto tempo o capital ficará aplicado?",
+        "altA": "2 anos",
+        "altB": "4 anos",
+        "altC": "3 anos",
+        "altD": "5 anos",
+        "correta": "C",
+        "link": "https://drive.google.com/open?id=1XDkQZnVd_n98HBdy6yuKw-SXiuD3uTpJ"
+    },
+    {
+        "id": 6,
+        "enunciado": "Q6. Na compra de um skate cujo valor à vista é de R$ 140,00, deve-se pagar uma entrada mais duas prestações de R$ 80,00 no fim dos próximos 2 meses. Considerando uma taxa de juros de 20% am, qual o valor da entrada?",
+        "altA": "R$ 17,00",
+        "altB": "R$ 17,75",
+        "altC": "R$ 17,25",
+        "altD": "R$ 17,78",
+        "correta": "D",
+        "link": "https://drive.google.com/open?id=1XDkQZnVd_n98HBdy6yuKw-SXiuD3uTpJ"
+    },
+    {
+        "id": 7,
+        "enunciado": "Q7. Para comprar um carrinho de pipoca Joana aplica de R$ 5.000, 00 à taxa de juros compostos de 20% a.m, que irá gerar após 4 meses, um montante de:",
+        "altA": "R$ 10.358,00",
+        "altB": "R$ 10.368,00",
+        "altC": "R$ 10.378,00",
+        "altD": "R$ 10.388,00",
+        "correta": "B",
+        "link": "https://drive.google.com/open?id=1XDkQZnVd_n98HBdy6yuKw-SXiuD3uTpJ"
+    },
+    {
+        "id": 8,
+        "enunciado": "Q8. Qual é o investimento necessário, em reais, para gerar um montante de R$ 18.634,00 após 3 anos, a uma taxa composta de 10% ao ano?",
+        "altA": "R$ 14.000,00",
+        "altB": "R$ 14.100,00",
+        "altC": "R$ 15.000,00",
+        "altD": "R$ 15.100,00",
+        "correta": "A",
+        "link": "https://drive.google.com/open?id=1XDkQZnVd_n98HBdy6yuKw-SXiuD3uTpJ"
+    },
+    {
+        "id": 9,
+        "enunciado": "Q9. Um certo capital após 4 meses transformou-se em R$ 850,85. Esse capital, diminuído dos juros ganhos nesse prazo, reduz-se a R$ 549,15. Calcular o capital e a taxa de juros efetiva ao mês ganha na aplicação.",
+        "altA": "R$ 700,00 e 4,00% a.m",
+        "altB": "R$ 710,00 e 4,80 % a.m",
+        "altC": "R$ 700,00 e 4,99% a.m",
+        "altD": "R$ 705,00 e 4,99% a.m",
+        "correta": "C",
+        "link": "https://drive.google.com/open?id=1XDkQZnVd_n98HBdy6yuKw-SXiuD3uTpJ"
+    },
+    {
+        "id": 10,
+        "enunciado": "Q10. Um capital de R$ 50.000,00 rendeu R$ 1.000,00 em um determinado prazo. Se o prazo fosse dois meses maior, o rendimento aumentaria em R$ 2.060,40. Calcular a taxa de juros efetiva ao mês ganha pela aplicação e o prazo em meses.",
+        "altA": "2% a.m; 1 mês",
+        "altB": "2% a.m; 2 meses",
+        "altC": "1% a.m; 1 mês",
+        "altD": "2% a.m; 3 meses",
+        "correta": "A",
+        "link": "https://drive.google.com/open?id=1XDkQZnVd_n98HBdy6yuKw-SXiuD3uTpJ"
+    },
+    {
+        "id": 11,
+        "enunciado": "Q11. Um capital foi aplicado a juros efetivos de 30% aa. Após 3 anos, resgatou-se a metade dos juros ganhos e, logo depois, o resto do montante foi reaplicado à taxa efetiva de 32% aa, obtendo-se um rendimento de R$ 102,30 no prazo de 1 ano. Calcular o valor do capital inicialmente aplicado.",
+        "altA": "R$ 199,20",
+        "altB": "R$ 119,99",
+        "altC": "R$ 119,25",
+        "altD": "R$ 199,00",
+        "correta": "B",
+        "link": "https://drive.google.com/open?id=1XDkQZnVd_n98HBdy6yuKw-SXiuD3uTpJ"
+    },
+    {
+        "id": 12,
+        "enunciado": "Q12. Uma pessoa depositou R$ 1.000,00 em um fundo que paga juros efetivos de 5% am, com o objetivo de dispor de R$ 1.102,50 dentro de 2 meses. Passados 24 dias após a aplicação, a taxa efetiva baixou para 4% am. Quanto tempo adicional terá de esperar para obter o capital requerido?",
+        "altA": "9  dias",
+        "altB": "10 dias",
+        "altC": "11 dias",
+        "altD": "12 dias",
+        "correta": "A",
+        "link": "https://drive.google.com/open?id=1XDkQZnVd_n98HBdy6yuKw-SXiuD3uTpJ"
+    },
+    {
+        "id": 13,
+        "enunciado": "Q13. Determinar o valor dos juros pagos por um empréstimo de R$ 2.000,00 contratado à taxa efetiva de 5% am pelo prazo de 25 dias.",
+        "altA": "R$ 81,00",
+        "altB": "R$ 81,99",
+        "altC": "R$ 82,99",
+        "altD": "R$ 80,99",
+        "correta": "C",
+        "link": "https://drive.google.com/open?id=1XDkQZnVd_n98HBdy6yuKw-SXiuD3uTpJ"
+    },
+    {
+        "id": 14,
+        "enunciado": "Q14. Uma poupança especial rende 1% ao mês, em regime de juros compostos. Vinícius aplicou R$480,00 nessa poupança e retirou a quantia um ano depois. Que valor Vinícius retirou?",
+        "altA": "R$ 480,00",
+        "altB": "R$ 530,00",
+        "altC": "R$ 488,00",
+        "altD": "R$ 540,8",
+        "correta": "D",
+        "link": "https://drive.google.com/open?id=1XDkQZnVd_n98HBdy6yuKw-SXiuD3uTpJ"
+    },
+    {
+        "id": 15,
+        "enunciado": "Q15. Uma dívida, contraída a juros compostos, aumentou de R$200,00 para R$242,00 em dois meses. Admitindo que a taxa mensal de juros é fixa, determine o valor da taxa.",
+        "altA": "10% a.m",
+        "altB": "11% a.m",
+        "altC": "12% a.m",
+        "altD": "13% a.m",
+        "correta": "A",
+        "link": "https://drive.google.com/open?id=1XDkQZnVd_n98HBdy6yuKw-SXiuD3uTpJ"
+    },
+    {
+        "id": 16,
+        "enunciado": "Q16. O Sra. Josefina investiu R$5000,00 em um fundo de ações. No 1º ano as ações do fundo valorizaram-se 35%; no 2º ano, valorizaram-se 20% (em relação ao 1º ano) e no 3º ano desvalorizaram-se 30% (em relação ao 2º ano). Que valor o Sra. Josefina terá ao final dos três anos?",
+        "altA": "R$ 5.570,00",
+        "altB": "R$ 5.600,00",
+        "altC": "R$ 5.500,00",
+        "altD": "R$ 5.440,00",
+        "correta": "A",
+        "link": "https://drive.google.com/open?id=1XDkQZnVd_n98HBdy6yuKw-SXiuD3uTpJ"
+    },
+    {
+        "id": 17,
+        "enunciado": "Q17. Para comprar uma bicicleta profissional Emannuelle aplica o capital R$ 600,00, à taxa composta de 4% ao mês. Calcule o montante, ao final de um ano de aplicação.",
+        "altA": "R$ 970,00",
+        "altB": "R$ 960,62",
+        "altC": "R$ 950,50",
+        "altD": "R$ 940,62",
+        "correta": "B",
+        "link": "https://drive.google.com/open?id=1XDkQZnVd_n98HBdy6yuKw-SXiuD3uTpJ"
+    },
+    {
+        "id": 18,
+        "enunciado": "Q18. Nazaré deseja comprar um celular, por isso aplicou o capital R$ 500,00 durante 8 meses à taxa de 5% ao mês.  Qual o valor dos juros compostos produzidos?",
+        "altA": "R$ 238,73",
+        "altB": "R$ 228,00",
+        "altC": "R$ 218,33",
+        "altD": "R$ 738,33",
+        "correta": "A",
+        "link": "https://drive.google.com/open?id=1XDkQZnVd_n98HBdy6yuKw-SXiuD3uTpJ"
+    },
+    {
+        "id": 19,
+        "enunciado": "Q19. Margarida aplica um capital em regime de juros compostos a uma taxa mensal de 2% a.m. Depois de quantos meses este capital estará duplicado?",
+        "altA": "34 meses",
+        "altB": "35 meses",
+        "altC": "36 meses",
+        "altD": "37 meses",
+        "correta": "B",
+        "link": "https://drive.google.com/open?id=1XDkQZnVd_n98HBdy6yuKw-SXiuD3uTpJ"
+    },
+    {
+        "id": 20,
+        "enunciado": "Q20. André deseja comprar um notebook e para isso aplica R$ 1.000,00 na poupança. Em quantos meses a aplicação de R$ 1.000,00 à taxa de 5 % ao ano gera um montante de R$1.045,73?",
+        "altA": "9  meses",
+        "altB": "10 meses",
+        "altC": "11 meses",
+        "altD": "12 meses",
+        "correta": "C",
+        "link": "https://drive.google.com/open?id=1XDkQZnVd_n98HBdy6yuKw-SXiuD3uTpJ"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "enunciado": "Q1. João Pedro resolveu comprar um Smartphone que custa 20 parcelas de R$ 49,99. Mas caso João Pedro compre à vista ele ganhará 10% de desconto do valor total do smartphone. Quanto João Pedro pagaria à vista? Qual o valor do desconto? Foi Será vantajoso comprar à vista?",
+        "altA": "a) R$ 998,80 e R$ 99,98; SIM",
+        "altB": "b) R$ 899,82 e R$ 99,98; NÃO",
+        "altC": "c) R$ 999,90 e R$ 98,99; NÃO",
+        "altD": "d) R$ 899,82 e R$ 99,98; SIM",
+        "correta": "D",
+        "link": "https://drive.google.com/open?id=16sxOoRKBVV8nXyzwOZzIJIyHlgHoB5_2"
+    },
+    {
+        "id": 2,
+        "enunciado": "Q2. Carlos comprou uma bicicleta e resolveu pagar a prazo, pois não podia pagar à vista. Sabendo que o valor à vista é de R$ 339,00 e que o valor total a prazo é 15% maior que o valor à vista, responda: Quanto Pedro vai pagar no total? De acordo com o valor pago por João é vantajoso comprar à vista? ",
+        "altA": "R$ 399,85;  NÃO",
+        "altB": "R$ 389,85;  SIM",
+        "altC": "R$ 388,90;  SIM",
+        "altD": "R$ 399,80;  NÃO",
+        "correta": "B",
+        "link": "https://drive.google.com/open?id=16sxOoRKBVV8nXyzwOZzIJIyHlgHoB5_2"
+    },
+    {
+        "id": 3,
+        "enunciado": "Q3. Uma máquina de lavar que custa 10 vezes R$ 90,00 está em promoção. O cliente que comprar à vista paga somente R$ 800,00. Qual a porcentagem de desconto está sendo oferecida? Você aproveitaria a oferta da máquina de lavar por apenas R$ 800,00 à vista?",
+        "altA": "11,11%;  SIM",
+        "altB": "10,00%;  SIM",
+        "altC": "11,66%;  NÃO",
+        "altD": "10,67%;  NÃO",
+        "correta": "A",
+        "link": "https://drive.google.com/open?id=16sxOoRKBVV8nXyzwOZzIJIyHlgHoB5_2"
+    },
+    {
+        "id": 4,
+        "enunciado": "Q4. Aproveite a promoção do EGEO RED, pois ele está custando SOMENTE R$ 120,00 à prazo. No entanto, para quem comprar à vista ganha 10% de desconto. Desta forma, quanto o EGEO RED passará a custar à vista? Vale a pena comprar à vista?",
+        "altA": "R$ 110,00;  SIM",
+        "altB": "R$ 111,00;  NÃO",
+        "altC": "R$ 108,00;  SIM",
+        "altD": "R$ 112,00;  NÃO",
+        "correta": "C",
+        "link": "https://drive.google.com/open?id=16sxOoRKBVV8nXyzwOZzIJIyHlgHoB5_2"
+    },
+    {
+        "id": 5,
+        "enunciado": "Q5. Compre uma Smart TV Samsung de R$ 1.500 no cartão de crédito, por apenas R$1.200 à vista.  Após analisar a promoção, qual será a porcentagem de desconto, para o cliente que comprar a TV à vista? Você economizaria mais comprando à vista ou no cartão de crédito?",
+        "altA": "a) 30,00%; À VISTA",
+        "altB": "b) 10,00%;  CARTÃO DE CRÉDITO",
+        "altC": "c) 25,00%;  CARTÃO DE CRÉDITO",
+        "altD": "d) 20,00%; À VISTA",
+        "correta": "D",
+        "link": "https://drive.google.com/open?id=16sxOoRKBVV8nXyzwOZzIJIyHlgHoB5_2"
+    }
+]

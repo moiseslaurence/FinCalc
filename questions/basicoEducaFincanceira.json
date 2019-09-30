@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "enunciado": "Q1. Ana Marisa emprestou R$ 200,00 para Eduardo. Sendo que Eduardo deve devolver o dinheiro depois de 5 meses com um acréscimo de uma taxa de juros simples de 1% ao mês. Desta maneira, realize os cálculos e descubra quanto Eduardo vai devolver para Ana Marise.",
+        "altA": "R$208,00",
+        "altB": "R$206,00",
+        "altC": "R$210,00",
+        "altD": "R$211,00",
+        "correta": "C",
+        "link": "https://drive.google.com/open?id=1U7_zRCKW77nH8KkU8SWgtcqhFohrj5vH"
+    },
+    {
+        "id": 2,
+        "enunciado": "Q2. Agora vamos Supor que Ana Marisa empreste R$ 200,00 para Eduardo e ele deve devolver o dinheiro depois de 5 meses com um acréscimo de uma taxa de juros compostos de 1% ao mês. Desta maneira, realize os cálculos e descubra quanto Eduardo vai devolver para Ana Marise.",
+        "altA": "R$210,10",
+        "altB": "R$206,06",
+        "altC": "R$210,00",
+        "altD": "R$210,20",
+        "correta": "D",
+        "link": "https://drive.google.com/open?id=1U7_zRCKW77nH8KkU8SWgtcqhFohrj5vH"
+    },
+    {
+        "id": 3,
+        "enunciado": "Q3. Seu José comprou uma latinha de refrigerante por R$ 1,00 e a vendeu por R$ 1,50. Teve ainda que pagar imposto de 20% sobre o valor de venda. Qual foi o seu lucro?",
+        "altA": "R$ 0,50",
+        "altB": "R$ 0,30",
+        "altC": "R$ 0,20",
+        "altD": "R$ 0,40",
+        "correta": "C",
+        "link": "https://drive.google.com/open?id=1U7_zRCKW77nH8KkU8SWgtcqhFohrj5vH"
+    },
+    {
+        "id": 4,
+        "enunciado": "Q4. Carla pagou seu aluguel de R$ 500,00 com 5 dias de atraso. É cobrada uma multa de 0,2% por dia de atraso. Qual foi o valor pago?",
+        "altA": "R$ 502,00",
+        "altB": "R$ 505,00",
+        "altC": "R$ 503,00",
+        "altD": "R$ 504,00",
+        "correta": "B",
+        "link": "https://drive.google.com/open?id=1U7_zRCKW77nH8KkU8SWgtcqhFohrj5vH"
+    },
+    {
+        "id": 5,
+        "enunciado": "Q5. A conta de luz de Fernanda, esse mês, foi de R$ 206,00. Como pagou com atraso, foi cobrada uma multa de 10%. Então, o valor pago por Fernanda foi igual a:",
+        "altA": "R$ 20,60",
+        "altB": "R$ 2,06",
+        "altC": "R$ 206,00",
+        "altD": "R$ 226,60 ",
+        "correta": "D",
+        "link": "https://drive.google.com/open?id=1U7_zRCKW77nH8KkU8SWgtcqhFohrj5vH"
+    }
+]

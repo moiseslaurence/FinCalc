@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "enunciado": "Q1. Para realizar a compra de uma bicicleta, Talisson aplicou um capital de R$ 100,00 à taxa de 3,5% ao mês durante um trimestre. Determine o valor dos juros simples neste período.",
+        "altA": "R$ 100,50",
+        "altB": "R$ 1,50",
+        "altC": "R$ 10,50",
+        "altD": "R$ 100,00",
+        "correta": "C",
+        "link": "https://drive.google.com/open?id=1skHOjmrPmsUQxR42u2X3OXHyVudyK7Ta"
+    },
+    {
+        "id": 2,
+        "enunciado": "Q2. Carla comprou um celular parcelado e não conseguiu realizar o pagamento de todas as parcelas. Desta maneira, Carla decidiu realizar um empréstimo pagando uma taxa de juros simples de 2% ao mês durante 5 meses. Ao final deste período, calculou em R$ 170 o total dos juros incorridos. Determinar o valor do empréstimo.",
+        "altA": "R$ 170,00",
+        "altB": "R$ 1.170,00",
+        "altC": "R$ 1.700,00",
+        "altD": "R$ 1.770,00",
+        "correta": "C",
+        "link": "https://drive.google.com/open?id=1skHOjmrPmsUQxR42u2X3OXHyVudyK7Ta"
+    },
+    {
+        "id": 3,
+        "enunciado": "Q3. Para realizar a compra de um Drone João resolveu aplicar a quantia de R$ 100,00 na poupança durante 4 meses, produzindo um rendimento financeiro de R$ 800,00. Qual a taxa de juros aproximadamente oferecida por esta operação.",
+        "altA": "2,2% a.a.",
+        "altB": "2,0% a.m.",
+        "altC": "2,3% a.m.",
+        "altD": "2,1% a.a.",
+        "correta": "B",
+        "link": "https://drive.google.com/open?id=1skHOjmrPmsUQxR42u2X3OXHyVudyK7Ta"
+    },
+    {
+        "id": 4,
+        "enunciado": "Q4. Dona Maria tinha um grande sonho: comprar um carro, para isso ela aplicou no Banco do Brasil o valor de R$ 35.000,00, rendendo uma taxa de juros de 2,0% ao mês. Sendo que ao final de determinado período, ela obteve os juros no valor de R$ 7.000,00. Calcular o prazo da aplicação.",
+        "altA": "9 meses",
+        "altB": "11 meses",
+        "altC": "10 meses",
+        "altD": "8 meses",
+        "correta": "C",
+        "link": "https://drive.google.com/open?id=1skHOjmrPmsUQxR42u2X3OXHyVudyK7Ta"
+    },
+    {
+        "id": 5,
+        "enunciado": "Q5. Sophia jogou na Lotomania e recebeu um prêmio de R$ 22.000,00 e resolveu aplicar em uma instituição financeira, resgatando R$ 32.440,00, após quatro meses. Calcular a taxa mensal de juros simples auferida nesta aplicação.",
+        "altA": "11% a.m",
+        "altB": "11,86% a.m",
+        "altC": "12,86% a.m",
+        "altD": "11,765 a.m",
+        "correta": "B",
+        "link": "https://drive.google.com/open?id=1skHOjmrPmsUQxR42u2X3OXHyVudyK7Ta"
+    },
+    {
+        "id": 6,
+        "enunciado": "Q6. José devia em seu cartão de crédito, R$ 1.600,00. Como ele não conseguiu pagar essa dívida em quatro meses, ela aumentou para R$ 2.400,00. Nesse caso, qual foi a taxa de juros simples cobrada mensalmente pelo cartão de crédito?",
+        "altA": "1,25%",
+        "altB": "12,5%",
+        "altC": "125%",
+        "altD": "0,125%",
+        "correta": "B",
+        "link": "https://drive.google.com/open?id=1skHOjmrPmsUQxR42u2X3OXHyVudyK7Ta"
+    },
+    {
+        "id": 7,
+        "enunciado": "Q7. Marco precisa realizar uma viagem, para visitar sua família e resolveu depositar R$ 550,00 em uma conta poupança, a juros simples comerciais, lucrando R$ 62,00 de juros. Sabendo-se que o prazo de aplicação foi de 150 dias, a taxa de juros mensal aplicada foi de:",
+        "altA": "0,022%",
+        "altB": "0,22%",
+        "altC": "2,25%",
+        "altD": "2,22%",
+        "correta": "C",
+        "link": "https://drive.google.com/open?id=1skHOjmrPmsUQxR42u2X3OXHyVudyK7Ta"
+    },
+    {
+        "id": 8,
+        "enunciado": "Q8. Ricardo emprestou R$ 65,00 para Camila comprar uma mochila. Após seis meses Ricardo resolveu cobrar sua dívida. Camila efetuou um pagamento de R$ 95,00 a Ricardo. Qual foi a taxa mensal de juros?",
+        "altA": "7,69% a.m",
+        "altB": "0,769% a.m",
+        "altC": "0,79% a.m",
+        "altD": "7,96% a.m",
+        "correta": "A",
+        "link": "https://drive.google.com/open?id=1skHOjmrPmsUQxR42u2X3OXHyVudyK7Ta"
+    },
+    {
+        "id": 9,
+        "enunciado": "Q9. Margarida trabalha em uma loja de cosméticos e recebe mensalmente 1.200,00 reais. E deste valor ela resolve aplicar R$ 120,00 no Banco do Brasil, durante 120 dias, sob uma taxa de 2,0% ao mês. Qual será o valor resgatado?",
+        "altA": "R$ 128,60",
+        "altB": "R$ 9,6,00",
+        "altC": "R$ 960,00",
+        "altD": "R$ 129,60",
+        "correta": "D",
+        "link": "https://drive.google.com/open?id=1skHOjmrPmsUQxR42u2X3OXHyVudyK7Ta"
+    },
+    {
+        "id": 10,
+        "enunciado": "Q10. A Cliente da loja “Compre Mais Ltda.” Efetuou um pagamento de uma prestação de R$ 200,00 por R$ 220,00. Sabendo-se que a taxa de juros praticada pela loja foi de 2% ao mês, por quantos dias esta prestação ficou em atraso?",
+        "altA": "5 dias",
+        "altB": "25 dias",
+        "altC": "15 dias",
+        "altD": "150 dias",
+        "correta": "D",
+        "link": "https://drive.google.com/open?id=1skHOjmrPmsUQxR42u2X3OXHyVudyK7Ta"
+    },
+    {
+        "id": 11,
+        "enunciado": "Q11. Emanuelle terminou o ensino médio e deseja montar seu próprio negócio. Para isso, ela pede a seu pai que ele realize um empréstimo de R$ 5.000,00 junto a Caixa Econômica Federal. Sendo que esse empréstimo será pago em 1 ano e 3 meses, com taxa de 5% ao mês. Diante destas condições, qual será o juros aplicados pela CEF?",
+        "altA": "R$ 4.400,00",
+        "altB": "R$ 460,00",
+        "altC": "R$ 4.500,00",
+        "altD": "R$ 450,00",
+        "correta": "C",
+        "link": "https://drive.google.com/open?id=1skHOjmrPmsUQxR42u2X3OXHyVudyK7Ta"
+    },
+    {
+        "id": 12,
+        "enunciado": "Q12. Rafael foi demitido do emprego e recebeu uma indenização de R$ 65.000,00 e resolve aplicá-la à taxa de 2,5% ao mês durante 6 meses. Determinar o valor acumulado ao final deste período.",
+        "altA": "R$ 74.750,00",
+        "altB": "R$ 75.750,00",
+        "altC": "R$ 74.760,00",
+        "altD": "R$ 77.750,00",
+        "correta": "A",
+        "link": "https://drive.google.com/open?id=1skHOjmrPmsUQxR42u2X3OXHyVudyK7Ta"
+    },
+    {
+        "id": 13,
+        "enunciado": "Q13. Carlos comprou de forma parcelada um guarda-roupa e deu de presente para sua esposa. No entanto, Carlos saiu do emprego e não está conseguindo pagar as parcelas. Desse modo, Carlos decide fazer um empréstimo de R$ 2.000, para quitar suas dívidas. Sabendo que esse empréstimo será pago de 20 vezes, com taxa de 3% a.m, qual será o valor dos juros aplicado?",
+        "altA": "R$ 1.000,00",
+        "altB": "R$ 1.100,00",
+        "altC": "R$ 1.150,00",
+        "altD": "R$ 1.200,00",
+        "correta": "D",
+        "link": "https://drive.google.com/open?id=1skHOjmrPmsUQxR42u2X3OXHyVudyK7Ta"
+    },
+    {
+        "id": 14,
+        "enunciado": "Q14. Para realizar a compra de um sofá, Gabriele aplicou suas economias em uma conta poupança, acumulando o montante de um capital de R$ 1.200 aplicado à taxa de 5,0% ao mês pelo prazo de 10 meses. Qual o valor aplicado por Gabriele?",
+        "altA": "R$ 800,00",
+        "altB": "R$ 864,00",
+        "altC": "R$ 868,00",
+        "altD": "R$ 866,00",
+        "correta": "A",
+        "link": "https://drive.google.com/open?id=1skHOjmrPmsUQxR42u2X3OXHyVudyK7Ta"
+    },
+    {
+        "id": 15,
+        "enunciado": "Q15. Joana deseja comprar uma geladeira com tecnologia de última geração. Enquanto aguarda o preço da geladeira baixar, ela aplica o capital disponível de R$ 1.000,00 a juros simples de 1,2% ao mês em uma instituição financeira, por um período de 1 ano e 8 meses. O montante, ao final desse período, é igual a:",
+        "altA": "R$ 1.000,00",
+        "altB": "R$ 124,00",
+        "altC": "R$ 1.240,00",
+        "altD": "R$ 2.140,00",
+        "correta": "C",
+        "link": "https://drive.google.com/open?id=1skHOjmrPmsUQxR42u2X3OXHyVudyK7Ta"
+    },
+    {
+        "id": 16,
+        "enunciado": "Q16. Mediante uma crise econômica a empresa “Unidos.com” realizou redução no seu quadro de funcionários, sendo João um dos funcionários demitido. Desta maneira, João recebeu uma rescisão trabalhista no valor de R$ 2.500, a qual ele resolveu aplicar na poupança, sobre a taxa de juros simples de 9% ao trimestre, ao longo de 16 meses. Isso gerou um montante no valor de:",
+        "altA": "R$ 3.700,00",
+        "altB": "R$ 3.500,00",
+        "altC": "R$ 3.770,00",
+        "altD": "R$ 1.200,00",
+        "correta": "A",
+        "link": "https://drive.google.com/open?id=1skHOjmrPmsUQxR42u2X3OXHyVudyK7Ta"
+    },
+    {
+        "id": 17,
+        "enunciado": "Q17. Para realizar a compra de uma moto (BIS), Kelline aplicou R$ 5.000,00 na poupança, obtendo 3.000,00 de juros, sob a taxa de juro de 6% ao trimestre. Portanto, calcule o prazo e o montante, respectivamente.",
+        "altA": "R$ 8.000,00 e 10 trimestres",
+        "altB": "10 trimestres e R$ 8.000,00",
+        "altC": "R$ 800,00 e 8 trimestres",
+        "altD": "R$ 8,00 e 8 trimestres",
+        "correta": "B",
+        "link": "https://drive.google.com/open?id=1skHOjmrPmsUQxR42u2X3OXHyVudyK7Ta"
+    },
+    {
+        "id": 18,
+        "enunciado": "Q18. Ribamar deseja comprar um skate e realiza uma aplicação de R$ 200,00 pelo prazo de 60 dias, obtendo o rendimento de R$ 50,00. Qual a taxa mensal e o montante correspondente a essa aplicação?",
+        "altA": "12,5% a.m e R$ 250,00",
+        "altB": "0,125% a.m e R$ 250,00",
+        "altC": "1,25% a.m e R$ 350,00",
+        "altD": "12,5% a.m e R$ 200,00",
+        "correta": "A",
+        "link": "https://drive.google.com/open?id=1skHOjmrPmsUQxR42u2X3OXHyVudyK7Ta"
+    },
+    {
+        "id": 19,
+        "enunciado": "Q19. Seu José possui uma pequena loja, e resolveu depositar suas economias numa poupança, e acumulou um valor de R$ 1.450,00. Sabendo-se que o período desta aplicação é de 3 trimestres e que a taxa é de 5% ao mês, determine o valor dos juros nesta aplicação.",
+        "altA": "R$ 217,50",
+        "altB": "R$ 1.450,00",
+        "altC": "R$ 450,00",
+        "altD": "R$ 652,50",
+        "correta": "C",
+        "link": "https://drive.google.com/open?id=1skHOjmrPmsUQxR42u2X3OXHyVudyK7Ta"
+    },
+    {
+        "id": 20,
+        "enunciado": "Q20. Cássia recebeu uma herança de seu avô, no valor de R$ 18.000,00 e resolveu guardar esse dinheiro numa poupança, com taxa de juros simples de 1% a.m, durante 6 meses. Calcule o montante recebido por Cássia no final deste período:",
+        "altA": "R$ 19.180,00",
+        "altB": "R$ 19.080,00",
+        "altC": "R$ 1.980,00",
+        "altD": "R$ 1.890,00",
+        "correta": "B",
+        "link": "https://drive.google.com/open?id=1skHOjmrPmsUQxR42u2X3OXHyVudyK7Ta"
+    }
+]

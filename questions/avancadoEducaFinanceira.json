@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "enunciado": "Q1. Jadson gostou de um tênis que custa 6 vezes de R$ 43,30 ou R$ 180,00 à vista. Mas como ele não possuía esse valor disponível resolveu aplicar um capital de R$ 160,00 à taxa de 3% ao mês durante um trimestre. Determine o valor dos juros simples neste período. E veja se a melhor opção é comprar à vista ou parcelado.",
+        "altA": "R$ 43,20; à vista",
+        "altB": "R$ 43,20; parcelado",
+        "altC": "R$ 45,20; parcelado",
+        "altD": "R$ 40,20; à vista",
+        "correta": "A",
+        "link": "https://drive.google.com/open?id=1A1ItnDMNsaG3bC5CO4hXZvBgDjpIcW5W"
+    },
+    {
+        "id": 2,
+        "enunciado": "Q2. Carlos comprou um patins que custa 4 vezes de R$ 50. Infelizmente Carlos atrasou as parcelas e decidiu fazer um empréstimo de R$ 200, que será pago em 10 meses, com taxa de 3% a.m. Determine qual será o valor dos juros simples aplicado? Ao fazer o empréstimo, para pagar o patins, Carlos teve lucro ou prejuízo?",
+        "altA": "R$ 60,00; lucro",
+        "altB": "R$ 60,00; prejuízo",
+        "altC": "R$ 58,00; lucro",
+        "altD": "R$ 59,90; prejuízo",
+        "correta": "B",
+        "link": "https://drive.google.com/open?id=1A1ItnDMNsaG3bC5CO4hXZvBgDjpIcW5W"
+    },
+    {
+        "id": 3,
+        "enunciado": "Q3. Para realizar a compra de um guarda-roupa, que custa R$ 800,00, Gabriel aplicou suas economias em uma conta poupança, acumulando o montante de um capital de R$ 1.000 aplicado à taxa de 5% ao mês pelo prazo de 10 meses. Qual o valor aplicado por Gabriel? De acordo com os juros obtidos, vale a pena poupar?",
+        "altA": "R$ 666,66;  sim",
+        "altB": "R$ 666,66;  não",
+        "altC": "R$ 650,60;  sim",
+        "altD": "R$ 670,00;  não",
+        "correta": "A",
+        "link": "https://drive.google.com/open?id=1A1ItnDMNsaG3bC5CO4hXZvBgDjpIcW5W"
+    },
+    {
+        "id": 4,
+        "enunciado": "Q4. Janiele deseja comprar uma geladeira, que custa 1.200 reais, mas como ela não tem esse valor disponível resolve aplicar o capital de R$ 1.000,00 a juros simples de 2% ao mês, por um período de 18 meses. Desse modo, determine qual o montante obtido? E se Janiele tomou a melhor decisão ao aplicar o dinheiro?",
+        "altA": "R$ 1.100,00;  sim",
+        "altB": "R$ 1.300,00;  não",
+        "altC": "R$ 1.360,00;  sim",
+        "altD": "R$ 1.120,00 ;  não ",
+        "correta": "C",
+        "link": "https://drive.google.com/open?id=1A1ItnDMNsaG3bC5CO4hXZvBgDjpIcW5W"
+    },
+    {
+        "id": 5,
+        "enunciado": "Q5- Para realizar a compra de um Drone, que custa 10 vezes de R$ 700 ou R$ 6.000 à vista, Sophia aplicou R$ 5.000,00 na poupança, obtendo 3.000,00 de juros, sob a taxa de juros simples de 2% ao mês. Portanto, calcule o prazo e o montante, respectivamente. E qual é a forma mais vantajosa de comprar o Drone?",
+        "altA": "30 meses e R$ 8.000;",
+        "altB": "30 meses e R$ 8.000;",
+        "altC": "10 meses e R$ 8.000;",
+        "altD": "35 meses e R$ 8.000;",
+        "correta": "A",
+        "link": "https://drive.google.com/open?id=1A1ItnDMNsaG3bC5CO4hXZvBgDjpIcW5W"
+    }
+]

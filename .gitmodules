@@ -1,0 +1,3 @@
+[submodule "producao"]
+	path = producao
+	url = https://mlaurence@bitbucket.org/tatuzen/desenvolvimento.git
