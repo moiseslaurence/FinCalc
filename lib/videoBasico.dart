@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
+import 'package:youtube_player/youtube_player.dart';
 
 class VideosBasico extends StatefulWidget {
   final List<String> links;
@@ -8,73 +9,55 @@ class VideosBasico extends StatefulWidget {
 
   @override
   _VideoBasicoState createState() => _VideoBasicoState();
-
 }
 
 class _VideoBasicoState extends State<VideosBasico> {
+  TextEditingController _idController = TextEditingController();
+  String id = "fpuoayOZVaA";
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(
-            title: Text('Videos'),
-            centerTitle: true,
-            leading: new IconButton(
-              icon: new Icon(Icons.arrow_back, color: Colors.white),
-              onPressed: () {
-                Navigator.of(context).pop();
-              },
-            ),
+        appBar: AppBar(
+          title: Text('Videos - Porcentagem'),
+          centerTitle: true,
+          leading: new IconButton(
+            icon: new Icon(Icons.arrow_back, color: Colors.white),
+            onPressed: () {
+              Navigator.of(context).pop();
+            },
           ),
-      body: ListView(
-        scrollDirection: Axis.vertical,
-        children: <Widget>[
-        Padding(
-            padding: const EdgeInsets.all(16.0),
-            child: Container(
-              child: new FittedBox(
-                child: FlatButton(
-                    child: Image.asset('img/video-player.png',
-                        height: 40, width: 40),
-                    color: Colors.blue,
-                    onPressed: () {
-                        _launchURL("https://youtu.be/fpuoayOZVaA");
-                    }),
-              ),
-            ),
+        ),
+        body: SingleChildScrollView(
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.start,
+            children: <Widget>[
+              Padding(
+                  padding: const EdgeInsets.all(16.0),
+                  child: YoutubePlayer(
+                    context: context,
+                    source: "fpuoayOZVaA",
+                    quality: YoutubeQuality.HD,
+                    autoPlay: false,
+                  )),
+              Padding(
+                  padding: const EdgeInsets.all(16.0),
+                  child: YoutubePlayer(
+                    context: context,
+                    source: "cmQOVUIGG0U",
+                    quality: YoutubeQuality.HD,
+                    autoPlay: false,
+                  )),
+              Padding(
+                  padding: const EdgeInsets.all(16.0),
+                  child: YoutubePlayer(
+                    context: context,
+                    source: "xe7FO7UPoiI",
+                    quality: YoutubeQuality.HD,
+                    autoPlay: false,
+                  )),
+            ],
           ),
-        Padding(
-            padding: const EdgeInsets.all(16.0),
-            child: Container(
-              child: new FittedBox(
-                child: FlatButton(
-                    child: Image.asset('img/video-player.png',
-                        height: 40, width: 40),
-                    color: Colors.blue,
-                    onPressed: () {
-                        _launchURL("https://youtu.be/fpuoayOZVaA");
-                    }),
-              ),
-            ),
-          ),
-          Padding(
-            padding: const EdgeInsets.all(16.0),
-            child: Container(
-              child: new FittedBox(
-                child: FlatButton(
-                    child: Image.asset('img/video-player.png',
-                        height: 40, width: 40),
-                    color: Colors.blue,
-                    onPressed: () {
-                        _launchURL("https://youtu.be/fpuoayOZVaA");
-                    }),
-              ),
-            ),
-          ),
-
-
-        ],
-      ),
-    );
+        ));
   }
 
   _launchURL(url) async {

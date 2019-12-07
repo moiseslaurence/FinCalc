@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'nivel.dart';
+import 'about.dart';
 
 void main() => runApp(MyApp());
 
@@ -28,17 +29,14 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  void initState(){
+  void initState() {
     super.initState();
   }
 
   @override
   Widget build(BuildContext context) {
-
     return Scaffold(
-      appBar: AppBar(
-        title: Text(widget.title),
-      ),
+      appBar: AppBar(title: Text(widget.title)),
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
@@ -50,14 +48,23 @@ class _MyHomePageState extends State<MyHomePage> {
             Divider(),
             FlatButton(
               onPressed: () {
-                Navigator.push(context, MaterialPageRoute(builder: (context) => Nivel()));
+                Navigator.push(
+                    context, MaterialPageRoute(builder: (context) => Nivel()));
               },
-              child:
-              Image.asset('img/logoFinal.png'),
+              child: Image.asset('img/logoFinal.png'),
             ),
             Divider(),
           ],
         ),
+      ),
+      floatingActionButton: FloatingActionButton.extended(
+        onPressed: () {
+          Navigator.push(
+              context, MaterialPageRoute(builder: (context) => Sobre()));
+        },
+        label: Text('Sobre nós'),
+        icon: Icon(Icons.assignment_late),
+        backgroundColor: Colors.pink,
       ),
     );
   }

@@ -6,18 +6,22 @@
         "altB": "R$ 56,00",
         "altC": "R$ 57,00",
         "altD": "R$ 57,50",
+        "altE": "R$ 67,50",
         "correta": "C",
-        "link": "https://drive.google.com/open?id=1NiaKJaUPTiYY36EhEsqB7AVHRXlRxEGw"
+        "link": "https://drive.google.com/open?id=1H09D4JUU5w9pPYrr3F4aChr9n0Twx2St",
+        "video": "basico"
     },
     {
         "id": 2,
-        "enunciado": "Q2. Pedro comprou uma bicicleta e resolveu pagar a prazo, pois não podia pagar à vista. Sabendo que o valor à vista é de R$ 1500,00 e que o valor total a prazo é 15% maior que o valor à vista, responda: Quanto Pedro vai pagar no total?",
-        "altA": "R$ 1.725,50",
-        "altB": "R$ 1.760,00",
-        "altC": "R$ 1.680,00",
-        "altD": "R$ 1.725,00",
+        "enunciado": "Q2. Júnior comprou uma bicicleta e resolveu pagar a prazo, pois não podia pagar à vista. Sabendo que o valor à vista é de R$ 600,00 e que o valor total a prazo é 10% maior que o valor à vista, responda: Quanto Júnior vai pagar no total?",
+        "altA": "R$ 650,00",
+        "altB": "R$ 600,00",
+        "altC": "R$ 620,00",
+        "altD": "R$ 660,00",
+        "altE": "R$ 630,00",
         "correta": "D",
-        "link": "https://drive.google.com/open?id=1NiaKJaUPTiYY36EhEsqB7AVHRXlRxEGw"
+        "link": "https://drive.google.com/open?id=1H09D4JUU5w9pPYrr3F4aChr9n0Twx2St",
+        "video": "basico"
     },
     {
         "id": 3,
@@ -26,177 +30,93 @@
         "altB": "R$ 12,34",
         "altC": "R$ 12,00",
         "altD": "R$ 11,24",
+        "altE": "R$ 13,24",
         "correta": "A",
-        "link": "https://drive.google.com/open?id=1NiaKJaUPTiYY36EhEsqB7AVHRXlRxEGw"
+        "link": "https://drive.google.com/open?id=1H09D4JUU5w9pPYrr3F4aChr9n0Twx2St",
+        "video": "basico"
     },
     {
         "id": 4,
-        "enunciado": "Q4. Aurélio contrata um advogado e este consegue receber 90% do valor de uma questão avaliada em R$300.000,00. O advogado cobra a título de honorários 15% da quantia recebida. Portanto quanto o advogado deve receber?",
-        "altA": "R$ 41.500.00",
-        "altB": "R$ 40.500,00",
-        "altC": "R$ 42.000,00",
-        "altD": "R$ 40.000,00",
+        "enunciado": "Q4. Aurélio contrata uma advogada e esta consegue receber 12% do valor de uma questão avaliada em R$10.000,00. A advogada cobra a título de honorários 20% da quantia recebida. Portanto quanto a advogada deve receber?",
+        "altA": "R$ 230,00",
+        "altB": "R$ 240,00",
+        "altC": "R$ 220,00",
+        "altD": "R$ 120,00",
+        "altE": "R$ 1.200,00",
         "correta": "B",
-        "link": "https://drive.google.com/open?id=1NiaKJaUPTiYY36EhEsqB7AVHRXlRxEGw"
+        "link": "https://drive.google.com/open?id=1H09D4JUU5w9pPYrr3F4aChr9n0Twx2St",
+        "video": "basico"
     },
     {
         "id": 5,
-        "enunciado": "Q5. A turma do curso de Administração do IFTO possui 40 alunos, sendo que 45% são meninos. Quantos meninos e meninas tem a turma?",
-        "altA": "19 meninos e 22 meninas",
-        "altB": "18 meninos e 23 meninas",
-        "altC": "19 meninos e 23 meninas",
-        "altD": "18 meninos e 22 meninas",
+        "enunciado": "Q5. A turma do curso de Administração do IFTO possui 60 alunos, sendo que 35% são meninas. Quantas meninas e meninos têm nessa turma?",
+        "altA": "20 meninas e 40 meninos",
+        "altB": "18 meninas e 33 meninos",
+        "altC": "19 meninas e 33 meninos",
+        "altD": "21 meninas e 39 meninos",
+        "altE": "20 meninas e 40 meninos",
         "correta": "D",
-        "link": "https://drive.google.com/open?id=1NiaKJaUPTiYY36EhEsqB7AVHRXlRxEGw"
+        "link": "https://drive.google.com/open?id=1H09D4JUU5w9pPYrr3F4aChr9n0Twx2St",
+        "video": "basico"
     },
     {
         "id": 6,
-        "enunciado": "Q6. Uma máquina de lavar que custava R$ 900,00 teve um aumento de R$ 50,00. Qual foi o percentual de aumento?",
-        "altA": "5,56%",
-        "altB": "5,66%",
-        "altC": "6,66%",
-        "altD": "5,67%",
+        "enunciado": "Q6. Uma máquina de lavar que custava R$ 700,00 teve um aumento de R$ 49,00. Qual foi o percentual de aumento?",
+        "altA": "7,00%",
+        "altB": "6,66%",
+        "altC": "7,66%",
+        "altD": "7,67%",
+        "altE": "8,02%",
         "correta": "A",
-        "link": "https://drive.google.com/open?id=1NiaKJaUPTiYY36EhEsqB7AVHRXlRxEGw"
+        "link": "https://drive.google.com/open?id=1H09D4JUU5w9pPYrr3F4aChr9n0Twx2St",
+        "video": "basico"
     },
     {
         "id": 7,
-        "enunciado": "Q7. Um sítio que custava R$ 50.000,00 há dois anos teve uma valorização de 16,5% nos últimos 24 meses. Qual o valor atual do sítio?",
-        "altA": "R$ 58.350,00",
-        "altB": "R$ 58.100,00",
-        "altC": "R$ 58.250,00",
-        "altD": "R$ 57.250,00",
+        "enunciado": "Q7. Um notebook que custava R$ 2.000,00 a dois anos teve uma valorização de 15% nos últimos dois meses. Qual o valor atual do notebook?",
+        "altA": "R$ 2.350,00",
+        "altB": "R$ 2.100,00",
+        "altC": "R$ 2.300,00",
+        "altD": "R$ 2.250,00",
+        "altE": "R$ 2.150,00",
         "correta": "C",
-        "link": "https://drive.google.com/open?id=1NiaKJaUPTiYY36EhEsqB7AVHRXlRxEGw"
+        "link": "https://drive.google.com/open?id=1H09D4JUU5w9pPYrr3F4aChr9n0Twx2St",
+        "video": "basico"
     },
     {
         "id": 8,
-        "enunciado": "Q8. A loja “Vem pra Cá” dá 10% de desconto para pagamentos à vista. Nesse caso, quanto se paga à vista por uma TV, cujo preço original é R$ 1.200,00?",
-        "altA": "R$ 1.088,00",
-        "altB": "R$ 1.080,00",
-        "altC": "R$ 1.180,00",
-        "altD": "R$ 1.090,00",
-        "correta": "B",
-        "link": "https://drive.google.com/open?id=1NiaKJaUPTiYY36EhEsqB7AVHRXlRxEGw"
-    },
-    {
-        "id": 9,
-        "enunciado": "Q09. Uma perfumaria lança uma promoção de 10% de desconto no preço dos seus produtos. Se um perfume custa R$ 80,00, quanto ele passará a custar no preço promocional?",
+        "enunciado": "Q8. Uma perfumaria lança uma promoção de 10% de desconto no preço dos seus produtos. Se um perfume custa R$ 80,00, quanto ele passará a custar no preço promocional?",
         "altA": "R$ 78,00",
         "altB": "R$ 72,00",
         "altC": "R$ 79,00",
         "altD": "R$ 78,50",
+        "altE": "R$ 79,50",
         "correta": "B",
-        "link": "https://drive.google.com/open?id=1NiaKJaUPTiYY36EhEsqB7AVHRXlRxEGw"
+        "link": "https://drive.google.com/open?id=1H09D4JUU5w9pPYrr3F4aChr9n0Twx2St",
+        "video": "basico"
     },
     {
-        "id": 10,
-        "enunciado": "Q10. Um jogador de futsal da seleção brasileira, durante um campeonato internacional, cobrou 95 faltas, transformando em gols 20% dessas faltas. Quanto gol de falta esse jogador fez?",
+        "id": 9,
+        "enunciado": "Q9. Um jogador de futsal da seleção brasileira, durante um campeonato internacional, cobrou 95 faltas, transformando em gols 20% dessas faltas. Quantos gols de falta esse jogador fez?",
         "altA": "20 gols",
         "altB": "22 gols",
         "altC": "21 gols",
         "altD": "19 gols",
+        "altE": "23 gols",
         "correta": "D",
-        "link": "https://drive.google.com/open?id=1NiaKJaUPTiYY36EhEsqB7AVHRXlRxEGw"
+        "link": "https://drive.google.com/open?id=1H09D4JUU5w9pPYrr3F4aChr9n0Twx2St",
+        "video": "basico"
     },
     {
-        "id": 11,
-        "enunciado": "Q11. Jamile possui um cofre, com 200 moedas, onde apenas 15% delas são moedas de um real. Quantas moedas de um real Jamile têm em seu cofre?",
-        "altA": "32 moedas",
-        "altB": "31 moedas",
-        "altC": "30 moedas",
-        "altD": "33 moedas",
-        "correta": "C",
-        "link": "https://drive.google.com/open?id=1NiaKJaUPTiYY36EhEsqB7AVHRXlRxEGw"
-    },
-    {
-        "id": 12,
-        "enunciado": "Q12. Em um zoológico existe uma população de 250 gatos, sendo que 36% são brancos e 64% são pretos. Qual é o número de ratos brancos e pretos, respectivamente?",
-        "altA": "160 brancos e 90  pretos",
-        "altB": "90 brancos  e 160 pretos",
-        "altC": "90 pretos   e 160 brancos",
-        "altD": "160 pretos  e 90  brancos",
+        "id": 10,
+        "enunciado": "Q10- Em um zoológico existe uma população de 250 gatos, sendo que 36% são brancos e 64% são pretos. Qual é o número de ratos brancos e pretos, respectivamente?",
+        "altA": "160 brancos e 90 pretos",
+        "altB": "90 brancos e 160 pretos",
+        "altC": "90 pretos e 160 brancos",
+        "altD": "160 pretos e 90 brancos",
+        "altE": "150 pretos e 100 brancos",
         "correta": "B",
-        "link": "https://drive.google.com/open?id=1NiaKJaUPTiYY36EhEsqB7AVHRXlRxEGw"
-    },
-    {
-        "id": 13,
-        "enunciado": "Q13. Jacira comprou 50 calças jeans e 70 vestidos, para revender numa feira de moda. E durante a primeira semana de exposição da feira Jacira conseguiu vender 40% das calças e 30% dos vestidos. Quantas calças e  vestidos Jacira vendeu?",
-        "altA": "20 calças e 21 vestidos",
-        "altB": "21 calças e 20 vestidos",
-        "altC": "22 calças e 22 vestidos",
-        "altD": "20 calças e 22 vestidos",
-        "correta": "A",
-        "link": "https://drive.google.com/open?id=1NiaKJaUPTiYY36EhEsqB7AVHRXlRxEGw"
-    },
-    {
-        "id": 14,
-        "enunciado": "Q14. Durante uma confraternização natalina, Margarida derrubou uma mesa, onde estavam 40 garrafas de cerveja. Sobraram apenas 20% das garrafas sem quebrar. Quantas garrafas Margarida quebrou?",
-        "altA": "8 garrafas",
-        "altB": "22 garrafas",
-        "altC": "21 garrafas",
-        "altD": "32 garrafas",
-        "correta": "B",
-        "link": "https://drive.google.com/open?id=1NiaKJaUPTiYY36EhEsqB7AVHRXlRxEGw"
-    },
-    {
-        "id": 15,
-        "enunciado": "Q15. Maria gostou de um hidratante que custa R$ 45,00, mas ao pagar por ele obteve um desconto de 12%. Quanto Maria pagou pelo hidratante? Qual o valor do desconto obtido?",
-        "altA": "R$ 5,40  e R$ 39,60",
-        "altB": "R$ 39,60 e R$ 5,40",
-        "altC": "R$ 5,50  e R$ 39,50",
-        "altD": "R$ 5,00  e R$ 40,00",
-        "correta": "B",
-        "link": "https://drive.google.com/open?id=1NiaKJaUPTiYY36EhEsqB7AVHRXlRxEGw"
-    },
-    {
-        "id": 16,
-        "enunciado": "Q16. Na cidade de Palmas-TO, foi feita uma pesquisa sobre o meio de transporte utilizado pelos alunos para chegarem ao IFTO. Responderam a essa pesquisa 1.000 alunos. Sendo que 15% responderam que vão de carro, 35% responderam que vão de moto, e o restante de ônibus. Calcule todas as porcentagens possíveis.",
-        "altA": "350 vão de carro,  150 de ônibus e 500 de moto.",
-        "altB": "350 vão de carro,  150 de moto e   500 de ônibus.",
-        "altC": "350 vão de moto,   150 de carro e  500 de ônibus.",
-        "altD": "350 vão de ônibus, 150 de carro e  500 de moto.",
-        "correta": "C",
-        "link": "https://drive.google.com/open?id=1NiaKJaUPTiYY36EhEsqB7AVHRXlRxEGw"
-    },
-    {
-        "id": 17,
-        "enunciado": "Q17. Um trabalho de Matemática tem 60 questões de Aritmética e 30 de Geometria. Júlia acertou 55% das questões de Aritmética e 70% de Geometria. Quantas questões de Aritmética e Geometria, Júlia acertou?",
-        "altA": "21 de Aritmética e 33 de Geometria",
-        "altB": "20 de Aritmética e 33 de Geometria",
-        "altC": "20 de Aritmética e 30 de Geometria",
-        "altD": "33 de Aritmética e 21 de Geometria",
-        "correta": "D",
-        "link": "https://drive.google.com/open?id=1NiaKJaUPTiYY36EhEsqB7AVHRXlRxEGw"
-    },
-    {
-        "id": 18,
-        "enunciado": "Q18. Jandecir deseja colocar o forro de gesso em seu apartamento. E para isso, ela solicitou junto à empresa de gesso, que eles fizessem um orçamento. O valor cobrado pela empresa foi de 2.000 reais. Sendo que, se Jandecir pagar à vista ela terá um desconto de 15%. Qual o valor à vista Jandecir pagará se ela resolver colocar o forro em seu apartamento?",
-        "altA": "R$ 1.700,00",
-        "altB": "R$ 1.850,00",
-        "altC": "R$ 1.900,00",
-        "altD": "R$ 2.100,00",
-        "correta": "A",
-        "link": "https://drive.google.com/open?id=1NiaKJaUPTiYY36EhEsqB7AVHRXlRxEGw"
-    },
-    {
-        "id": 19,
-        "enunciado": "Q19. Um vídeo game que custa 2.300,00 reais é vendido na seguinte condição de pagamento: 10% de entrada e o restante em 6 prestações iguais de R$ 345,00. À vista concede-se desconto de 4%. Qual é seu preço à vista?",
-        "altA": "R$ 2.218,00",
-        "altB": "R$ 2.228,00",
-        "altC": "R$ 2.200,00",
-        "altD": "R$ 2.208,00",
-        "correta": "D",
-        "link": "https://drive.google.com/open?id=1NiaKJaUPTiYY36EhEsqB7AVHRXlRxEGw"
-    },
-    {
-        "id": 20,
-        "enunciado": "Q20. Uma cafeteira custa 280 reais à vista. A prazo, em 5 parcelas mensais iguais, seu preço sofre acréscimo de 18%. Qual é o valor de cada parcela?",
-        "altA": "R$ 66,08",
-        "altB": "R$ 66,00",
-        "altC": "R$ 66,10",
-        "altD": "R$ 67,00",
-        "correta": "A",
-        "link": "https://drive.google.com/open?id=1NiaKJaUPTiYY36EhEsqB7AVHRXlRxEGw"
+        "link": "https://drive.google.com/open?id=1H09D4JUU5w9pPYrr3F4aChr9n0Twx2St",
+        "video": "basico"
     }
 ]

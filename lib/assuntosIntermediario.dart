@@ -9,62 +9,91 @@ void assuntosIntermediario() {
   ));
 }
 
-class AssuntosIntermediario extends StatelessWidget{
+class AssuntosIntermediario extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('FinCalc - Intermédiario', style: Theme.of(context).textTheme.display1.copyWith(color: Colors.white), textScaleFactor: 0.5,),
+          title: Text(
+            'FinCalc - Intermédiario',
+            style: Theme.of(context)
+                .textTheme
+                .display1
+                .copyWith(color: Colors.white),
+            textScaleFactor: 0.5,
+          ),
           actions: <Widget>[
             FlatButton(
               // icon: Icon(Icons.home),
-              child: Image.asset('img/house.png',height: 50, width: 50),
+              child: Image.asset('img/house.png', height: 50, width: 50),
               onPressed: () {
-                Navigator.push(context,
-                    MaterialPageRoute(builder: (context) => MyApp()));},
+                Navigator.push(
+                    context, MaterialPageRoute(builder: (context) => MyApp()));
+              },
             ),
-          ]
-      ),
+          ]),
       body: Center(
- 
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Text(
               'Selecione o assunto',
-              style: Theme.of(context).textTheme.display1.copyWith(color: Colors.black54),
+              style: Theme.of(context)
+                  .textTheme
+                  .display1
+                  .copyWith(color: Colors.black54),
             ),
             SizedBox(
               width: double.infinity, // match_parent
               height: 100,
-              child:
-            RaisedButton(
-              onPressed: () {
-                service.loadQuestoes('jurosSimplesIntermed',context);
-              },
-              child: Text('Juros Simples', style: Theme.of(context).textTheme.display1.copyWith(color: Colors.white), textScaleFactor: 0.7, ),
-              // padding: EdgeInsets.symmetric(vertical: 30, horizontal: 118),
-              color: Colors.blue[700],
-            ),
+              child: RaisedButton(
+                onPressed: () {
+                  service.loadQuestoes('jurosSimplesIntermed', context);
+                },
+                child: Row(
+                  children: <Widget>[
+                    Image.asset("img/interest2.png"),
+                    Text(
+                      "\t\t\tJuros Simples",
+                      style: Theme.of(context)
+                          .textTheme
+                          .display1
+                          .copyWith(color: Colors.white),
+                      textScaleFactor: 0.6,
+                    )
+                  ],
+                ),
+                // padding: EdgeInsets.symmetric(vertical: 30, horizontal: 118),
+                color: Colors.blue[700],
+              ),
             ),
             Divider(),
             SizedBox(
               width: double.infinity, // match_parent
               height: 100,
-              child:
-            RaisedButton(
-              onPressed: () {
-                service.loadQuestoes('educaFinanIntermed',context);
-              },
-              child: Text('Educação Financeira', style: Theme.of(context).textTheme.display1.copyWith(color: Colors.white), textScaleFactor: 0.6, ),
-              // padding: EdgeInsets.symmetric(vertical: 30, horizontal: 100),
-              color: Colors.blue[900],
-            ),
+              child: RaisedButton(
+                onPressed: () {
+                  service.loadQuestoes('educaFinanIntermed', context);
+                },
+                child: Row(
+                  children: <Widget>[
+                    Image.asset("img/finance.png"),
+                    Text(
+                      "\t\t\tEducação Financeira",
+                      style: Theme.of(context)
+                          .textTheme
+                          .display1
+                          .copyWith(color: Colors.white),
+                      textScaleFactor: 0.6,
+                    )
+                  ],
+                ),
+                // padding: EdgeInsets.symmetric(vertical: 30, horizontal: 100),
+                color: Colors.blue[900],
+              ),
             ),
             Divider(),
-
           ],
-
         ),
       ),
     );

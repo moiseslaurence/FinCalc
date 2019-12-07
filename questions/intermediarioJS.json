@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "enunciado": "Q1. Para realizar a compra de uma bicicleta, Talisson aplicou um capital de R$ 100,00 à taxa de 3,5% ao mês durante um trimestre. Determine o valor dos juros simples neste período.",
+        "altA": "R$ 100,50",
+        "altB": "R$ 1,50",
+        "altC": "R$ 1,75",
+        "altD": "R$ 100,00",
+        "altE": "R$ 10,50",
+        "correta": "E",
+        "link": "https://drive.google.com/file/d/1GqDUU7JvinGcILrBQCPfo57_hUmfkdE0/view?usp=sharing",
+        "video": "intermediario"
+    },
+    {
+        "id": 2,
+        "enunciado": "Q2. Carla comprou um celular parcelado e não conseguiu realizar o pagamento de todas as parcelas. Desta maneira, Carla decidiu realizar um empréstimo pagando uma taxa de juros simples de 2% ao mês durante 5 meses. Ao final deste período, calculou em R$ 170 o total dos juros incorridos. Determinar o valor do empréstimo.",
+        "altA": "R$ 170,00",
+        "altB": "R$ 1.170,00",
+        "altC": "R$ 1.700,00",
+        "altD": "R$ 1.770,00",
+        "altE": "R$ 1.750,00",
+        "correta": "C",
+        "link": "https://drive.google.com/file/d/1GqDUU7JvinGcILrBQCPfo57_hUmfkdE0/view?usp=sharing",
+        "video": "intermediario"
+    },
+    {
+        "id": 3,
+        "enunciado": "Q3. Para realizar a compra de um Drone João resolveu aplicar a quantia de R$ 100,00 na poupança durante 4 meses, produzindo um rendimento financeiro de R$ 800,00. Qual a taxa de juros aproximadamente oferecida por esta operação.",
+        "altA": "2,2% a.a.",
+        "altB": "2,0% a.m.",
+        "altC": "2,3% a.m.",
+        "altD": "2,1% a.a.",
+        "altE": "1,2% a.m.",
+        "correta": "B",
+        "link": "https://drive.google.com/file/d/1GqDUU7JvinGcILrBQCPfo57_hUmfkdE0/view?usp=sharing",
+        "video": "intermediario"
+    },
+    {
+        "id": 4,
+        "enunciado": "Q4. Dona Maria tinha um grande sonho: comprar um carro, para isso ela aplicou no Banco do Brasil o valor de R$ 35.000,00, rendendo uma taxa de juros de 2,0% ao mês. Sendo que ao final de determinado período, ela obteve os juros no valor de R$ 7.000,00. Calcular o prazo da aplicação.",
+        "altA": "9 meses",
+        "altB": "11 meses",
+        "altC": "10 meses",
+        "altD": "8 meses",
+        "altE": "12 meses",
+        "correta": "C",
+        "link": "https://drive.google.com/file/d/1GqDUU7JvinGcILrBQCPfo57_hUmfkdE0/view?usp=sharing",
+        "video": "intermediario"
+    },
+    {
+        "id": 5,
+        "enunciado": "Q5. Sophia jogou na Lotomania e recebeu um prêmio de R$ 22.000,00 e resolveu aplicar em uma instituição financeira, resgatando R$ 32.440,00, após quatro meses. Calcular a taxa mensal de juros simples auferida nesta aplicação.",
+        "altA": "11% a.m",
+        "altB": "11,80% a.m",
+        "altC": "12,86% a.m",
+        "altD": "11,765% a.m",
+        "altE": "11,86% a.m",
+        "correta": "E",
+        "link": "https://drive.google.com/file/d/1GqDUU7JvinGcILrBQCPfo57_hUmfkdE0/view?usp=sharing",
+        "video": "intermediario"
+    },
+    {
+        "id": 6,
+        "enunciado": "Q6. José devia em seu cartão de crédito, R$ 1.600,00. Como ele não conseguiu pagar essa dívida em quatro meses, ela aumentou para R$ 2.400,00. Nesse caso, qual foi a taxa de juros simples cobrada mensalmente pelo cartão de crédito?",
+        "altA": "1,25%",
+        "altB": "12,5%",
+        "altC": "125%",
+        "altD": "0,125%",
+        "altE": "0,025%",
+        "correta": "B",
+        "link": "https://drive.google.com/file/d/1GqDUU7JvinGcILrBQCPfo57_hUmfkdE0/view?usp=sharing",
+        "video": "intermediario"
+    },
+    {
+        "id": 7,
+        "enunciado": "Q7. Marco precisa realizar uma viagem, para visitar sua família e resolveu depositar R$ 550,00 em uma conta poupança, a juros simples comerciais, lucrando R$ 62,00 de juros. Sabendo-se que o prazo de aplicação foi de 150 dias, a taxa de juros mensal aplicada foi de:",
+        "altA": "0,022%",
+        "altB": "0,22%",
+        "altC": "2,25%",
+        "altD": "2,22%",
+        "altE": "22,2%",
+        "correta": "C",
+        "link": "https://drive.google.com/file/d/1GqDUU7JvinGcILrBQCPfo57_hUmfkdE0/view?usp=sharing",
+        "video": "intermediario"
+    },
+    {
+        "id": 8,
+        "enunciado": "Q8. Ricardo emprestou R$ 65,00 para Camila comprar uma mochila. Após seis meses Ricardo resolveu cobrar sua dívida. Camila efetuou um pagamento de R$ 95,00 a Ricardo. Qual foi a taxa mensal de juros?",
+        "altA": "7,69% a.m",
+        "altB": "0,769% a.m",
+        "altC": "0,79% a.m",
+        "altD": "7,96% a.m",
+        "altE": "7,06% a.m",
+        "correta": "A",
+        "link": "https://drive.google.com/file/d/1GqDUU7JvinGcILrBQCPfo57_hUmfkdE0/view?usp=sharing",
+        "video": "intermediario"
+    },
+    {
+        "id": 9,
+        "enunciado": "Q09. Margarida trabalha em uma loja de cosméticos e recebe mensalmente 1.200,00 reais. E deste valor ela resolve aplicar R$ 120,00 no Banco do Brasil, durante 120 dias, sob uma taxa de 2,0% ao mês. Qual será o valor resgatado?",
+        "altA": "R$ 128,60",
+        "altB": "R$ 9,6,00",
+        "altC": "R$ 960,00",
+        "altD": "R$ 129,60",
+        "altE": "R$ 960,50",
+        "correta": "D",
+        "link": "https://drive.google.com/file/d/1GqDUU7JvinGcILrBQCPfo57_hUmfkdE0/view?usp=sharing",
+        "video": "intermediario"
+    },
+    {
+        "id": 10,
+        "enunciado": "Q10. A Cliente da loja “Compre Mais Ltda.” Efetuou um pagamento de uma prestação de R$ 200,00 por R$ 220,00. Sabendo-se que a taxa de juros praticada pela loja foi de 2% ao mês, por quantos dias esta prestação ficou em atraso?",
+        "altA": "5 dias",
+        "altB": "25 dias",
+        "altC": "15 dias",
+        "altD": "20 dias",
+        "altE": "150 dias",
+        "correta": "E",
+        "link": "https://drive.google.com/file/d/1GqDUU7JvinGcILrBQCPfo57_hUmfkdE0/view?usp=sharing",
+        "video": "intermediario"
+    }
+]

@@ -23,7 +23,7 @@ import 'package:flutter/material.dart';
       issue = 'questions/basicoEducaFincanceira.json';
       break;
     case 'jurosSimplesIntermed':
-      issue = 'questions/intermediarioJurosSimples.json';
+      issue = 'questions/intermediarioJS.json';
       break;
     case 'educaFinanIntermed':
       issue = 'questions/intermediarioEducaFincanceira.json';

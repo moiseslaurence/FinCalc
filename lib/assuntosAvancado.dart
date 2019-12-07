@@ -9,62 +9,91 @@ void assuntosAvancado() {
   ));
 }
 
-class AssuntosAvancado extends StatelessWidget{
+class AssuntosAvancado extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('FinCalc - Avançado', style: Theme.of(context).textTheme.display1.copyWith(color: Colors.white), textScaleFactor: 0.5,),
+          title: Text(
+            'FinCalc - Avançado',
+            style: Theme.of(context)
+                .textTheme
+                .display1
+                .copyWith(color: Colors.white),
+            textScaleFactor: 0.5,
+          ),
           actions: <Widget>[
             FlatButton(
               // icon: Icon(Icons.home),
-              child: Image.asset('img/house.png',height: 50, width: 50),
+              // child: Image.asset('img/house.png', height: 50, width: 50),
               onPressed: () {
-                Navigator.push(context,
-                    MaterialPageRoute(builder: (context) => MyApp()));},
+                Navigator.push(
+                    context, MaterialPageRoute(builder: (context) => MyApp()));
+              },
             ),
-          ]
-      ),
+          ]),
       body: Center(
- 
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Text(
               'Selecione o assunto',
-              style: Theme.of(context).textTheme.display1.copyWith(color: Colors.black54),
+              style: Theme.of(context)
+                  .textTheme
+                  .display1
+                  .copyWith(color: Colors.black54),
             ),
-
             SizedBox(
               width: double.infinity, // match_parent
               height: 100,
-              child:
-            RaisedButton(
-              onPressed: () {
-                service.loadQuestoes('JurosCompostosAvancado',context);
-              },
-              child: Text('Juros Compostos', style: Theme.of(context).textTheme.display1.copyWith(color: Colors.white), textScaleFactor: 0.55, ),
-              // padding: EdgeInsets.symmetric(vertical: 30, horizontal: 110),
-              color: Colors.deepPurple[500],
-            ),
+              child: RaisedButton(
+                onPressed: () {
+                  service.loadQuestoes('JurosCompostosAvancado', context);
+                },
+                child: Row(
+                  children: <Widget>[
+                    Image.asset("img/interest2.png"),
+                    Text(
+                      "\t\t\tJuros Compostos",
+                      style: Theme.of(context)
+                          .textTheme
+                          .display1
+                          .copyWith(color: Colors.white),
+                      textScaleFactor: 0.6,
+                    )
+                  ],
+                ),
+                // padding: EdgeInsets.symmetric(vertical: 30, horizontal: 110),
+                color: Colors.deepPurple[500],
+              ),
             ),
             Divider(),
             SizedBox(
               width: double.infinity, // match_parent
               height: 100,
-              child:
-            RaisedButton(
-              onPressed: () {
-                service.loadQuestoes('educaFinanAvancado',context);
-              },
-              child: Text('Educação Financeira', style: Theme.of(context).textTheme.display1.copyWith(color: Colors.white), textScaleFactor: 0.55, ),
-              // padding: EdgeInsets.symmetric(vertical: 30, horizontal: 100),
-              color: Colors.deepPurple[800],
-            ),
+              child: RaisedButton(
+                onPressed: () {
+                  service.loadQuestoes('educaFinanAvancado', context);
+                },
+                child: Row(
+                  children: <Widget>[
+                    Image.asset("img/finance.png"),
+                    Text(
+                      "\t\t\tEducação Financeira",
+                      style: Theme.of(context)
+                          .textTheme
+                          .display1
+                          .copyWith(color: Colors.white),
+                      textScaleFactor: 0.6,
+                    )
+                  ],
+                ),
+                // padding: EdgeInsets.symmetric(vertical: 30, horizontal: 100),
+                color: Colors.deepPurple[800],
+              ),
             ),
             Divider(),
           ],
-
         ),
       ),
     );
